@@ -82,120 +82,120 @@ export const HKSketchFusionExtension = {
     globalBadges: {
       name: 'Global Badges',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Get all the global chat badges',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.badgeCommands.globalBadges
     },
     searchChannelSubBadge: {
       name: 'Channel Subscriber Badge',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: `Get a channel's subscriber badge`,
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.badgeCommands.searchChannelSubBadge
     },
     searchGlobalBadgesByName: {
       name: 'Search Global Badges by Name',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search individual global badges',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.badgeCommands.searchGlobalBadgesByName
     },
     searchChannels: {
       name: 'Search Channels',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search for a channel',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.channelCommands.searchChannels
     },
     globalEmotes: {
       name: 'Global Emotes',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Get all the global Twitch emotes',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.emoteCommands.globalEmotes
     },
     searchEmotesByChannel: {
       name: 'Search Emotes by Channel',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search for channel emotes',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.emoteCommands.searchEmotesByChannel
     },
     searchGlobalEmotesByName: {
       name: 'Search Global Emotes by Name',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search for an individual global emote',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.emoteCommands.searchGlobalEmotesByName
     },
     topGames: {
       name: 'Top Games',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Get top games on Twitch',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.gameCommands.topGames
     },
     searchGames: {
       name: 'Search Games',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search for game',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.gameCommands.searchGames
     },
     topVideos: {
       name: 'Top Videos',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Get top videos on Twitch',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.videoCommands.topVideos
     },
     searchVideosById: {
       name: 'Search Videos by ID',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search videos by video ID',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.videoCommands.searchVideosById
     },
     searchVideosByChannel: {
       name: 'Search Videos by Channel',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search videos by channel name',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.videoCommands.searchVideosByChannel
     },
     topStreams: {
       name: 'Top Streams',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Get top streams on Twitch',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.streamCommands.topStreams
     },
     searchStreamsByChannel: {
       name: 'Search Streams by Channel',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search streams by channel name',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.streamCommands.searchStreamsByChannel
     },
     searchStreamsByGame: {
       name: 'Search Streams by Game',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search streams by game name',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.streamCommands.searchStreamsByGame
     },
     searchStreamsByLanguage: {
       name: 'Search Streams by Language',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Search streams by language',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.streamCommands.searchStreamsByLanguage
     },
     twitchPopulateAgain: {
       name: 'Populate Again',
       shortcut: '',
-      description: '',
-      icon: '',
+      description: 'Populate selected layers with previous command data',
+      icon: '../Resources/twitch_icon.png',
       run: commands.twitchCommands.populateAgain
     },
     populateWithPreset: {

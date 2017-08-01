@@ -1,0 +1,62 @@
+{
+  "_id": "v101568088",
+  "broadcast_id": 23680870240,
+  "broadcast_type": "highlight",
+  "channel": {
+    "_id": "28230875",
+    "display_name": "Talespin",
+    "name": "talespin"
+  },
+  "created_at": "2016-11-17T06:24:46Z",
+  "description": "gg",
+  "description_html": "gg<br>",
+  "fps": {
+    "chunked": 59.9726125301009,
+    "high": 29.9993664424577,
+    "low": 30.0000611327453,
+    "medium": 29.9993664424577,
+    "mobile": 30.0000611327453
+  },
+  "game": "Overwatch",
+  "language": "en",
+  "length": 1272,
+  "preview": {
+    "large": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-640x360.jpg",
+    "medium": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-320x180.jpg",
+    "small": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-80x45.jpg",
+    "template": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-{width}x{height}.jpg"
+  },
+  "published_at": "2016-11-17T06:24:46Z",
+  "resolutions": {
+    "chunked": "1280x720",
+    "high": "1280x720",
+    "low": "640x360",
+    "medium": "852x480",
+    "mobile": "400x226"
+  },
+  "status": "recorded",
+  "tag_list": "overwatch talespin pharah reinhardt ggez",
+  "thumbnails": {
+    "large": [{
+      "type": "generated",
+      "url": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-640x360.jpg"
+    }],
+    "medium": [{
+      "type": "generated",
+      "url": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-320x180.jpg"
+    }],
+    "small": [{
+      "type": "generated",
+      "url": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-80x45.jpg"
+    }],
+    "template": [{
+      "type": "generated",
+      "url": "https://static-cdn.jtvnw.net/s3_vods/e273175ca1_talespin_23680870240_548725280//thumb/thumb101568088-{width}x{height}.jpg"
+    }]
+  },
+  "title": "Talespin vs Gods 1v1 (Pharah & Reinhardt)",
+  "url": "https://www.twitch.tv/talespin/v/101568088",
+  "viewable": "public",
+  "viewable_at": null,
+  "views": 16426
+}
