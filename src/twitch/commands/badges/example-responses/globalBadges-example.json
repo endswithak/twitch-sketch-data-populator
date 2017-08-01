@@ -1,33 +1,33 @@
 {
-   "admin": {
-      "alpha": "https://static-cdn.jtvnw.net/chat-badges/admin-alpha.png",
-      "image": "https://static-cdn.jtvnw.net/chat-badges/admin.png",
-      "svg": "https://static-cdn.jtvnw.net/chat-badges/admin.svg"
-   },
-   "broadcaster": {
-      "alpha": "https://static-cdn.jtvnw.net/chat-badges/broadcaster-alpha.png",
-      "image": "https://static-cdn.jtvnw.net/chat-badges/broadcaster.png",
-      "svg": "https://static-cdn.jtvnw.net/chat-badges/broadcaster.svg"
-   },
-   "global_mod": {
-      "alpha": "https://static-cdn.jtvnw.net/chat-badges/globalmod-alpha.png",
-      "image": "https://static-cdn.jtvnw.net/chat-badges/globalmod.png",
-      "svg": "https://static-cdn.jtvnw.net/chat-badges/globalmod.svg"
-   },
-   "mod": {
-      "alpha": "https://static-cdn.jtvnw.net/chat-badges/mod-alpha.png",
-      "image": "https://static-cdn.jtvnw.net/chat-badges/mod.png",
-      "svg": "https://static-cdn.jtvnw.net/chat-badges/mod.svg"
-   },
-   "staff": {
-      "alpha": "https://static-cdn.jtvnw.net/chat-badges/staff-alpha.png",
-      "image": "https://static-cdn.jtvnw.net/chat-badges/staff.png",
-      "svg": "https://static-cdn.jtvnw.net/chat-badges/staff.svg"
-   },
-   "subscriber": null,
-   "turbo": {
-      "alpha": "https://static-cdn.jtvnw.net/chat-badges/turbo-alpha.png",
-      "image": "https://static-cdn.jtvnw.net/chat-badges/turbo.png",
-      "svg": "https://static-cdn.jtvnw.net/chat-badges/turbo.svg"
-   }
+  "admin": {
+    "alpha": "https://static-cdn.jtvnw.net/chat-badges/admin-alpha.png",
+    "image": "https://static-cdn.jtvnw.net/chat-badges/admin.png",
+    "svg": "https://static-cdn.jtvnw.net/chat-badges/admin.svg"
+  },
+  "broadcaster": {
+    "alpha": "https://static-cdn.jtvnw.net/chat-badges/broadcaster-alpha.png",
+    "image": "https://static-cdn.jtvnw.net/chat-badges/broadcaster.png",
+    "svg": "https://static-cdn.jtvnw.net/chat-badges/broadcaster.svg"
+  },
+  "global_mod": {
+    "alpha": "https://static-cdn.jtvnw.net/chat-badges/globalmod-alpha.png",
+    "image": "https://static-cdn.jtvnw.net/chat-badges/globalmod.png",
+    "svg": "https://static-cdn.jtvnw.net/chat-badges/globalmod.svg"
+  },
+  "mod": {
+    "alpha": "https://static-cdn.jtvnw.net/chat-badges/mod-alpha.png",
+    "image": "https://static-cdn.jtvnw.net/chat-badges/mod.png",
+    "svg": "https://static-cdn.jtvnw.net/chat-badges/mod.svg"
+  },
+  "staff": {
+    "alpha": "https://static-cdn.jtvnw.net/chat-badges/staff-alpha.png",
+    "image": "https://static-cdn.jtvnw.net/chat-badges/staff.png",
+    "svg": "https://static-cdn.jtvnw.net/chat-badges/staff.svg"
+  },
+  "subscriber": null,
+  "turbo": {
+    "alpha": "https://static-cdn.jtvnw.net/chat-badges/turbo-alpha.png",
+    "image": "https://static-cdn.jtvnw.net/chat-badges/turbo.png",
+    "svg": "https://static-cdn.jtvnw.net/chat-badges/turbo.svg"
+  }
 }

@@ -74,7 +74,7 @@ export default (context) => {
     let jsonData = loadJSONData(PRESET_DATA_PATH);
     if (!jsonData) {
       return Context().document.showMessage('Error loading JSON from temp file');
-    } else if (!jsonData.length) {
+    } else if (!jsonData._id) {
       return Context().document.showMessage(`No games found for "${options[OPTIONS.SEARCH_QUERY].trim()}"`);
     }
 
